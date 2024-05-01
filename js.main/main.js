@@ -1,6 +1,5 @@
 'use strict';
 
-// console.log('Buongiorno Gaetano che piacere vederti!');
 
 //bottone genera ticket
 const generateButton = document.getElementById('generate-ticket');
